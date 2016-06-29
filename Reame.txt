@@ -1,0 +1,16 @@
+Direct Reconstruction Matlab codes
+Demo scripts:
+Kt_Vp_SEN_AD_3d.m: Reconstruction script to demonstrate direct reconstruction from under-sampled k-space in retrospective studies
+kTrans_back_demo.m: Demo to estimate Ktrans and Vp maps from images using Patlak model, and the forward modelling to get images from Ktrans and Vp maps.
+
+Functions: 
+conc2Ktrans.m: Convert contrast concentration to TK maps
+conc2sig.m: Convert contrast concentration to signal (images)
+genRGA.m: Generate randomized golden-angle radial sampling pattern
+Kt_Vp_SEN.m: Alternatively reconstruct Ktrans and Vp maps using l-bfgs
+Ktrans2conc.m: Convert Ktrans maps to contrast concentration
+sig2conc2.m: Convert signal (images) to contrast concentration
+Ktrans2sig_sen_WT.m: cost and gradient calculation for the objective function for Ktrans
+Vp2sig_SEN_WT.m: cost and gradient calculation for the objective funciton for Vp
+SAIF_p.m: generate population-averaged AIF
+
