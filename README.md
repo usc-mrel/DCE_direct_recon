@@ -31,5 +31,5 @@ Please download data set at https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1F
 	Cost and gradient calculation for the objective function for Ktrans.
 **Vp2sig_SEN_WT.m**: 
 	Cost and gradient calculation for the objective funciton for Vp.
-**SAIF_p.m: 
+**SAIF_p.m**: 
 	Generate population-averaged AIF.
