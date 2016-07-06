@@ -5,7 +5,9 @@ clc; clear all;
 addpath(genpath('minFunc_2012'));
 
 load DCE50_0402
-%load T1_0402;
+% data set located in
+% https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Frc3cxR0k/view?usp=sharing
+% load T1_0402; % data set located in  https://drive.google.com/file/d/0B4nLrDuviSiWcGFPOUV1b2VrZUU/view?usp=sharing
 
 ns=1; % choose one slice of k-space
 k=k(:,:,ns,:,:);

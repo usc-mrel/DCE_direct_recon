@@ -12,7 +12,8 @@ Code Structure
 ### Demo scripts
 **Kt_Vp_SEN_AD_3d.m**
 Reconstruction script to demonstrate direct reconstruction from under-sampled k-space in retrospective studies.  
-Please download data set at https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Frc3cxR0k/view?usp=sharing
+Please download data set at https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Frc3cxR0k/view?usp=sharing for DCE50_0402.mat and
+https://drive.google.com/file/d/0B4nLrDuviSiWcGFPOUV1b2VrZUU/view?usp=sharing for T1_0402.mat
 
 ### Functions: 
 **conc2Ktrans.m**: 
