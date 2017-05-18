@@ -17,7 +17,7 @@ https://drive.google.com/file/d/0B4nLrDuviSiWcGFPOUV1b2VrZUU/view?usp=sharing fo
 
 ### Functions: 
 **conc2Ktrans.m**: 
-	Convert contrast concentration to TK maps.  
+	Convert contrast concentration to TK parameter maps.  
 **conc2sig.m**: 
 	Convert contrast concentration to signal (images).  
 **genRGA.m**: 
